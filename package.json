@@ -1,8 +1,11 @@
 {
   "name": "@nsantander1095/github-pkg-demo",
+  "repository": {
+    "url": "git://github.com/nsantander1095/github-pkg-demo.git"
+  },
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
